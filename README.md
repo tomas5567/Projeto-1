@@ -1,3 +1,7 @@
+## Sugestão de melhoria
+- Proposta: melhorar a documentação do projeto. 
+- Contributo: acrescentar informação útil para os utilizadores. 
+- Autor: Tomás Tavares Ferreira
 
 O meu primeiro projeto:
 Este repositório foi criado no âmbito da disciplina de PSI. 

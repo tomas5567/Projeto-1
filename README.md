@@ -7,4 +7,4 @@ Nome: Tomás Tavares Ferreira
 Turma: 3ºF
 
 Objetivos:
-Compreender o controlo de versões. Aprender a utilizar o GitHub. Colaborar no desenvolvimento de projetos
+Compreender o controlo de versões. Aprender a utilizar o GitHub. Colaborar no desenvolvimento de projetos.
